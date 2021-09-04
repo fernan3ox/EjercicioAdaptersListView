@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio Adapters-ListView</string>
+
+    <string-array name="Alarmas">
+
+        <item>6:00 pm</item>
+        <item>5:00 pm</item>
+        <item>7:00 pm</item>
+        <item>8:00 pm</item>
+
+    </string-array>
+</resources>
